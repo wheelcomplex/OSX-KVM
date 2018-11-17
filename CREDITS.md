@@ -31,3 +31,13 @@
 * Francisco de la Peña - libvirt XML file for macOS High Sierra
 
 * Christian Giliberto - libvirt XML tweaks
+
+* José Roberto Meza Cabrera - AMD Ryzen testing
+
+* Paweł BB Drozd - UEFI resolution
+
+* Jan Kuri (jkuri) - Mojave ISO creation fixes
+
+* Mike Hardy (mikehardy) - Network documentation improvements
+
+* CuriousTommy + pickled_monkey - Information on vmxnet3 network adapter
